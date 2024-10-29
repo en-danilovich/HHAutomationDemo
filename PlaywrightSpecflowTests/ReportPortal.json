@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "server": {
+    "url": "https://demo.reportportal.io",
+    "project": "default_personal",
+    "apiKey": "api_p36nBJR4RnGZFiYpcXCfw3VdiUfMvd7PGu4B852g2iIRLNGzHyxWsMi9PkABd1_Y"
+  },
+  "launch": {
+    "name": ".NET Launch",
+    "description": "My awesome launch",
+    "debugMode": true,
+    "attributes": [ "tag1", "tag2", "platform:x64" ]
+  }
+}
